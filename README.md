@@ -21,3 +21,7 @@ Funtion that send an email throught outlook app using selenium.
  I recoment to import it, before use the function if you dont have it instaled.
  
  Maybe, you can import the enviroment to use it without problems.
+ 
+ Escriba en su terminal esto para instalar el entorno virtual para no tener problemas con el archivo.
+ 
+ conda env create -f environment.yml 
